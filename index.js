@@ -1,5 +1,5 @@
 console.log("first commit")
 
 function sayHello(){
-  console.log("Hola!")
+  console.log("Hola!, ¿cómo están?")
 }
